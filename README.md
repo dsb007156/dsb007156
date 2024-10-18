@@ -1,6 +1,6 @@
 # 你好，世界！👋
 
-我是一名热爱[web3]的开发者，[NFT Nomad]。
+我是一名热爱``web3``的开发者，[NFT Nomad]。
 
 ## 技术栈
 - **编程语言**: Python, JavaScript,rust
